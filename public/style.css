@@ -61,14 +61,29 @@ body > div {
   flex-direction: column;
   align-items: center;
   padding: 10px;
-  width: 800px;
+  width: 90%;
   border-style: solid;
   margin: 10px;
+  flex-wrap: wrap;
 }
 
 .eduex_img {
   height: 100px;
   width: 100px;
+}
+
+.exname {
+  /* display: flex;
+  flex-wrap: wrap; */
+  text-align: center;
+  /* align-self: center; */
+}
+
+.extitle {
+  /* display: flex;
+  flex-wrap: wrap; */
+  text-align: center;
+  /* align-self: center; */
 }
 
 #courses {

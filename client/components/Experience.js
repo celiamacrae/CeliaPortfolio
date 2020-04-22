@@ -7,8 +7,10 @@ const Experience = () => {
       <br />
 
       <div className="experience">
-        <h1>Fullstack Academy</h1>
-        <h3>Software Engineering Teaching Fellow (2020-Current)</h3>
+        <h1 className="exname">Fullstack Academy</h1>
+        <h3 className="extitle">
+          Software Engineering Teaching Fellow (2020-Current)
+        </h3>
         <img className="eduex_img" src={exlogos.fullstack} />
         <ul className="responsibilities">
           <li>
@@ -31,8 +33,8 @@ const Experience = () => {
       </div>
 
       <div className="experience">
-        <h1>Grace Hopper Program at Fullstack Academy</h1>
-        <h3>Software Engineering Student (2019-2020)</h3>
+        <h1 className="exname">Grace Hopper Program at Fullstack Academy</h1>
+        <h3 className="extitle">Software Engineering Student (2019-2020)</h3>
         <img className="eduex_img" src={exlogos.gracehopper} />
         <h5 id="ghdesc">
           A 17-week immersive software engineering program based in New York
@@ -43,7 +45,7 @@ const Experience = () => {
       </div>
 
       <div className="experience">
-        <h1>Duke University</h1>
+        <h1 className="exname">Duke University</h1>
         <h3>Bachelors Degree Computer Science & Sociology Minor (2015-2019)</h3>
         <img className="eduex_img" src={exlogos.duke} />
         <div id="courses">
@@ -78,8 +80,8 @@ const Experience = () => {
       </div>
 
       <div className="experience">
-        <h1>Social Science Research Institute</h1>
-        <h3>
+        <h1 className="exname">Social Science Research Institute</h1>
+        <h3 className="extitle">
           Lab Assistant, Research on the Education and Development of Youth
           (REDY) Lab (2018)
         </h3>
