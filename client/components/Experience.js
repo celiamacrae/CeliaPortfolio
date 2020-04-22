@@ -46,7 +46,9 @@ const Experience = () => {
 
       <div className="experience">
         <h1 className="exname">Duke University</h1>
-        <h3>Bachelors Degree Computer Science & Sociology Minor (2015-2019)</h3>
+        <h3 className="extitle">
+          Bachelors Degree Computer Science & Sociology Minor (2015-2019)
+        </h3>
         <img className="eduex_img" src={exlogos.duke} />
         <div id="courses">
           <h5>Relevant Cousework: </h5>

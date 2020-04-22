@@ -217,7 +217,9 @@ var Experience = function Experience() {
     className: "experience"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "exname"
-  }, "Duke University"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", null, "Bachelors Degree Computer Science & Sociology Minor (2015-2019)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+  }, "Duke University"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+    className: "extitle"
+  }, "Bachelors Degree Computer Science & Sociology Minor (2015-2019)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "eduex_img",
     src: _logos__WEBPACK_IMPORTED_MODULE_1__["exlogos"].duke
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -960,7 +962,9 @@ var Experience = function Experience() {
     className: "experience"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "exname"
-  }, "Duke University"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", null, "Bachelors Degree Computer Science & Sociology Minor (2015-2019)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+  }, "Duke University"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+    className: "extitle"
+  }, "Bachelors Degree Computer Science & Sociology Minor (2015-2019)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "eduex_img",
     src: _logos__WEBPACK_IMPORTED_MODULE_1__["exlogos"].duke
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
