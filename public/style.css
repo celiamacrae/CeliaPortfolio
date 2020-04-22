@@ -1,21 +1,209 @@
-body {
-  font-family: sans-serif;
+* {
+  /* font-family: arial,sans-serif; */
+  font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+  margin: 0;
 }
 
-a {
+body,
+body > div {
+  height: 100vh;
+  width: 100vw;
+}
+
+#site_title {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0px 10px 0px;
+}
+
+/*NAVIGATION*/
+
+#nav {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  flex-wrap: wrap;
+}
+
+.nav_item {
+  padding: 10px 20px;
+  color: black;
   text-decoration: none;
 }
 
-label {
-  display: block;
+/* ABOUT */
+
+#about_wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  text-align: center;
 }
 
-nav a {
-  display: inline-block;
-  margin: 1em;
+#self {
+  width: 250px;
+  height: 250px;
+  border-radius: 25%;
+  margin: 10px;
 }
 
-form div {
-  margin: 1em;
-  display: inline-block;
+/*EDUCATION AND EXPERIENCE */
+
+#experiences {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.experience {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  width: 800px;
+  border-style: solid;
+  margin: 10px;
+}
+
+.eduex_img {
+  height: 100px;
+  width: 100px;
+}
+
+#courses {
+  text-align: center;
+}
+
+#ghdesc {
+  text-align: center;
+}
+
+/* .responsibilities{
+  font-size: 13.28px;
+} */
+.responsibilities {
+  font-size: 13.28px;
+}
+
+/*PROJECTS */
+
+#project_wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.project {
+  /* border-radius: 25%; */
+  border-style: solid;
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+  justify-self: center;
+}
+
+.project_img {
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  border-radius: 25%;
+  border-style: solid;
+}
+
+.project_repo {
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  border-radius: 25%;
+  border-style: solid;
+}
+
+.pinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.project_description {
+  text-align: center;
+}
+
+.repo {
+  display: flex;
+  align-items: center;
+}
+
+.deployedproj {
+  display: flex;
+  align-items: center;
+}
+
+.fullstackdev {
+  font-style: italic;
+}
+
+/* .project_name{
+  text-decoration: underline;
+} */
+
+/*SKILLS*/
+
+.skill_level {
+  display: flex;
+  justify-content: center;
+}
+
+.skill_set {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.skill {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.skill_name {
+  align-self: center;
+}
+
+.skill_img {
+  height: 90px;
+  width: 90px;
+}
+
+/*CONTACT*/
+
+#contact_me {
+  display: flex;
+  justify-content: center;
+}
+
+.contact_img {
+  height: 50px;
+  width: 50px;
+}
+
+.contact_wrapper {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+.contact {
+  display: flex;
+  align-self: center;
+}
+
+.contact_link {
+  align-self: center;
+  margin: 10px;
 }
