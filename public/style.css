@@ -208,6 +208,7 @@ body > div {
   display: flex;
   flex-direction: column;
   align-content: center;
+  margin: 0px 10px;
 }
 
 .contact {
