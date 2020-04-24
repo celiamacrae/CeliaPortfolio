@@ -39,6 +39,12 @@ body > div {
   align-items: center;
   padding: 10px;
   text-align: center;
+  justify-content: center;
+}
+
+#aboutme {
+  display: flex;
+  width: 85%;
 }
 
 #self {
@@ -73,17 +79,11 @@ body > div {
 }
 
 .exname {
-  /* display: flex;
-  flex-wrap: wrap; */
   text-align: center;
-  /* align-self: center; */
 }
 
 .extitle {
-  /* display: flex;
-  flex-wrap: wrap; */
   text-align: center;
-  /* align-self: center; */
 }
 
 #courses {
@@ -94,9 +94,6 @@ body > div {
   text-align: center;
 }
 
-/* .responsibilities{
-  font-size: 13.28px;
-} */
 .responsibilities {
   font-size: 13.28px;
 }

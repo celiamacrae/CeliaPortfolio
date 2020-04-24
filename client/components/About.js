@@ -9,7 +9,7 @@ const About = () => {
       <h1>Hello, World.</h1>
       <img id="self" src="https://i.imgur.com/Zaxi80t.jpg" />
 
-      <h3>
+      <h3 id="aboutme">
         My name is Celia Macrae. I am a full-stack web developer based in New
         York, NY. I recently graduated from Duke University (2019) with a
         Bachelors Degree in Computer Science and a minor in Sociology,
