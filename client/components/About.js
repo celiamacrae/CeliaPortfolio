@@ -1,7 +1,5 @@
 import React, {Component} from 'react'
 
-// import headshot from '../../public/headshot2.jpg'
-
 const About = () => {
   return (
     <div id="about_wrapper">
