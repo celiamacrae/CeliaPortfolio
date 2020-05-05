@@ -195,7 +195,7 @@ var Experience = function Experience() {
     id: "experiences"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "experience"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "exname"
   }, "Fullstack Academy"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     className: "extitle"
@@ -206,7 +206,7 @@ var Experience = function Experience() {
     className: "responsibilities"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Resolve help tickets for 31 students learning full stack JavaScript using NERD stack"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Support technical and professional growth of 7-student learning team thorough office hours and learning team lunches"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Administer 3-4 behavioral and technical interviews per week to prospective students"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Manage student projects from ideation to deployment through agile workflow"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "experience"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "exname"
   }, "Grace Hopper Program at Fullstack Academy"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     className: "extitle"
@@ -217,7 +217,7 @@ var Experience = function Experience() {
     id: "ghdesc"
   }, "A 17-week immersive software engineering program based in New York City centered on full-stack JavaScript development, including Node.js, Express, Sequelize ORM for PostgreSQL databases, React and Redux; along with HTML & CSS, and CS fundamentals.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "experience"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "exname"
   }, "Duke University"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     className: "extitle"
@@ -232,7 +232,7 @@ var Experience = function Experience() {
     id: "courses"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", null, "Volunteer:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", null, "Hillcrest Convalescent Center - Zero Waste Game Day - Rubenstein-Bing Student-Athlete Civic Engagement (ACE) Program - George Watts Elementary School"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "experience"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "exname"
   }, "Social Science Research Institute"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     className: "extitle"
@@ -940,9 +940,9 @@ var Experience = function Experience() {
     id: "experiences"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "experience"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "exname"
-  }, "Fullstack Academy"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "Fullstack Academy"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "extitle"
   }, "Software Engineering Teaching Fellow (2020-Current)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "eduex_img",
@@ -951,9 +951,9 @@ var Experience = function Experience() {
     className: "responsibilities"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Resolve help tickets for 31 students learning full stack JavaScript using NERD stack"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Support technical and professional growth of 7-student learning team thorough office hours and learning team lunches"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Administer 3-4 behavioral and technical interviews per week to prospective students"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Manage student projects from ideation to deployment through agile workflow"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "experience"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "exname"
-  }, "Grace Hopper Program at Fullstack Academy"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "Grace Hopper Program at Fullstack Academy"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "extitle"
   }, "Software Engineering Student (2019-2020)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "eduex_img",
@@ -962,9 +962,9 @@ var Experience = function Experience() {
     id: "ghdesc"
   }, "A 17-week immersive software engineering program based in New York City centered on full-stack JavaScript development, including Node.js, Express, Sequelize ORM for PostgreSQL databases, React and Redux; along with HTML & CSS, and CS fundamentals.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "experience"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "exname"
-  }, "Duke University"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "Duke University"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "extitle"
   }, "Bachelors Degree Computer Science & Sociology Minor (2015-2019)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "eduex_img",
@@ -977,9 +977,9 @@ var Experience = function Experience() {
     id: "courses"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", null, "Volunteer:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", null, "Hillcrest Convalescent Center - Zero Waste Game Day - Rubenstein-Bing Student-Athlete Civic Engagement (ACE) Program - George Watts Elementary School"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "experience"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "exname"
-  }, "Social Science Research Institute"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "Social Science Research Institute"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "extitle"
   }, "Lab Assistant, Research on the Education and Development of Youth (REDY) Lab (2018)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "eduex_img",
@@ -34987,7 +34987,7 @@ if (false) {} else {
 /*!***************************************************************!*\
   !*** ./node_modules/react-router-dom/esm/react-router-dom.js ***!
   \***************************************************************/
-/*! exports provided: BrowserRouter, HashRouter, Link, NavLink, MemoryRouter, Prompt, Redirect, Route, Router, StaticRouter, Switch, generatePath, matchPath, withRouter, __RouterContext */
+/*! exports provided: MemoryRouter, Prompt, Redirect, Route, Router, StaticRouter, Switch, generatePath, matchPath, withRouter, __RouterContext, BrowserRouter, HashRouter, Link, NavLink */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
