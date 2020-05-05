@@ -142,6 +142,10 @@ body > div {
   border-style: solid;
 }
 
+a {
+  color: black;
+}
+
 .pinfo {
   display: flex;
   flex-direction: column;
