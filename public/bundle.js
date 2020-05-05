@@ -264,9 +264,9 @@ var Projects = function Projects() {
     id: "project_wrapper"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "project_name"
-  }, "GraphIt"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "GraphIt"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "fullstackdev"
   }, "Fullstack Developer, 2020"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "project_description"
@@ -281,30 +281,24 @@ var Projects = function Projects() {
     src: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://github.com/celiamacrae/Graphit2.0"
-  }, "Project Repo"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    className: "project_repo",
-    src: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "Project Repo")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "deployedproj"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "project_img",
     src: "https://avatars2.githubusercontent.com/u/60450249?s=400&u=b50a16566758429f3ee239735bdadd7ab61b9abc&v=4"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://graphit2.herokuapp.com/"
-  }, "Check out GraphIt"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    className: "project_img",
-    src: "https://avatars2.githubusercontent.com/u/60450249?s=400&u=b50a16566758429f3ee239735bdadd7ab61b9abc&v=4"
-  }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "Demo"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "pinfo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "GraphIt was built using:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "PostgreSQL"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Express.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React-Redux.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Node.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Chart.js ")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "project_name"
-  }, "Grace Shopper"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "Mushroom Marketplace"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "fullstackdev"
   }, "Fullstack Developer, 2020"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "project_description"
-  }, "Grace Shopper is eCommerce web application where users can purchase groceries and recipes."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "Mushroom Marketplace is eCommerce web application where users can purchase groceries and recipes."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "projinfo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "pinfo"
@@ -315,26 +309,20 @@ var Projects = function Projects() {
     src: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://github.com/1911-GH-mushrooms/GraceShopper"
-  }, "Project Repo"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    className: "project_repo",
-    src: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "Project Repo")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "deployedproj"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "project_img",
     src: "https://avatars3.githubusercontent.com/u/59840616?s=200&v=4"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://graceshopper2020mushroom.herokuapp.com/home"
-  }, "Check out Grace Shopper"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    className: "project_img",
-    src: "https://avatars3.githubusercontent.com/u/59840616?s=200&v=4"
-  }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "Demo"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "pinfo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Grace Shopper was built using:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "PostgreSQL"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Express.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React-Redux.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Node.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Google OAuth"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Stripe Payment Platform"))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "project_name"
-  }, "Study Buddy"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "Study Buddy"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "fullstackdev"
   }, "Fullstack Developer, 2020"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "project_description"
@@ -349,10 +337,7 @@ var Projects = function Projects() {
     src: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://github.com/Stackathon-Studdy-Buddy/Study-Buddy"
-  }, "Project Repo"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    className: "project_repo",
-    src: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "PROJECT REPO")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "deployedproj"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "project_img",
@@ -1007,9 +992,9 @@ var Projects = function Projects() {
     id: "project_wrapper"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "project_name"
-  }, "GraphIt"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "GraphIt"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "fullstackdev"
   }, "Fullstack Developer, 2020"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "project_description"
@@ -1024,30 +1009,24 @@ var Projects = function Projects() {
     src: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://github.com/celiamacrae/Graphit2.0"
-  }, "Project Repo"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    className: "project_repo",
-    src: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "PROJECT REPO")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "deployedproj"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "project_img",
     src: "https://avatars2.githubusercontent.com/u/60450249?s=400&u=b50a16566758429f3ee239735bdadd7ab61b9abc&v=4"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://graphit2.herokuapp.com/"
-  }, "Check out GraphIt"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    className: "project_img",
-    src: "https://avatars2.githubusercontent.com/u/60450249?s=400&u=b50a16566758429f3ee239735bdadd7ab61b9abc&v=4"
-  }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "DEMO"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "pinfo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "GraphIt was built using:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "PostgreSQL"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Express.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React-Redux.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Node.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Chart.js ")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "project_name"
-  }, "Grace Shopper"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "Mushroom Marketplace"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "fullstackdev"
   }, "Fullstack Developer, 2020"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "project_description"
-  }, "Grace Shopper is eCommerce web application where users can purchase groceries and recipes."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "Mushroom Marketplace is eCommerce web application where users can purchase groceries and recipes."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "projinfo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "pinfo"
@@ -1058,26 +1037,20 @@ var Projects = function Projects() {
     src: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://github.com/1911-GH-mushrooms/GraceShopper"
-  }, "Project Repo"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    className: "project_repo",
-    src: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "PROJECT REPO")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "deployedproj"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "project_img",
     src: "https://avatars3.githubusercontent.com/u/59840616?s=200&v=4"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://graceshopper2020mushroom.herokuapp.com/home"
-  }, "Check out Grace Shopper"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    className: "project_img",
-    src: "https://avatars3.githubusercontent.com/u/59840616?s=200&v=4"
-  }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "DEMO"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "pinfo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Grace Shopper was built using:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "PostgreSQL"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Express.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React-Redux.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Node.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Google OAuth"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Stripe Payment Platform"))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "project_name"
-  }, "Study Buddy"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "Study Buddy"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "fullstackdev"
   }, "Fullstack Developer, 2020"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "project_description"
@@ -1092,10 +1065,7 @@ var Projects = function Projects() {
     src: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://github.com/Stackathon-Studdy-Buddy/Study-Buddy"
-  }, "Project Repo"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    className: "project_repo",
-    src: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "PROJECT REPO")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "deployedproj"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "project_img",
@@ -34983,7 +34953,7 @@ if (false) {} else {
 /*!***************************************************************!*\
   !*** ./node_modules/react-router-dom/esm/react-router-dom.js ***!
   \***************************************************************/
-/*! exports provided: BrowserRouter, HashRouter, Link, NavLink, MemoryRouter, Prompt, Redirect, Route, Router, StaticRouter, Switch, generatePath, matchPath, withRouter, __RouterContext */
+/*! exports provided: MemoryRouter, Prompt, Redirect, Route, Router, StaticRouter, Switch, generatePath, matchPath, withRouter, __RouterContext, BrowserRouter, HashRouter, Link, NavLink */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";

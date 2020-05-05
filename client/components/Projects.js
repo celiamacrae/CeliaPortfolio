@@ -8,8 +8,8 @@ const Projects = () => {
         {/* <h1>My Projects</h1> */}
 
         <div className="project">
-          <h1 className="project_name">GraphIt</h1>
-          <h3 className="fullstackdev">Fullstack Developer, 2020</h3>
+          <h2 className="project_name">GraphIt</h2>
+          <h4 className="fullstackdev">Fullstack Developer, 2020</h4>
           <br />
           <p className="project_description">
             GraphIt is a platform that transforms uploaded data from a
@@ -26,23 +26,23 @@ const Projects = () => {
                   src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
                 />
                 <a href="https://github.com/celiamacrae/Graphit2.0">
-                  Project Repo
+                  PROJECT REPO
                 </a>
-                <img
+                {/* <img
                   className="project_repo"
                   src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-                />
+                /> */}
               </div>
               <div className="deployedproj">
                 <img
                   className="project_img"
                   src="https://avatars2.githubusercontent.com/u/60450249?s=400&u=b50a16566758429f3ee239735bdadd7ab61b9abc&v=4"
                 />
-                <a href="https://graphit2.herokuapp.com/">Check out GraphIt</a>
-                <img
+                <a href="https://graphit2.herokuapp.com/">DEMO</a>
+                {/* <img
                   className="project_img"
                   src="https://avatars2.githubusercontent.com/u/60450249?s=400&u=b50a16566758429f3ee239735bdadd7ab61b9abc&v=4"
-                />
+                /> */}
               </div>
             </div>
 
@@ -65,12 +65,12 @@ const Projects = () => {
         </div>
 
         <div className="project">
-          <h1 className="project_name">Grace Shopper</h1>
-          <h3 className="fullstackdev">Fullstack Developer, 2020</h3>
+          <h2 className="project_name">Mushroom Marketplace</h2>
+          <h4 className="fullstackdev">Fullstack Developer, 2020</h4>
           <br />
           <p className="project_description">
-            Grace Shopper is eCommerce web application where users can purchase
-            groceries and recipes.
+            Mushroom Marketplace is eCommerce web application where users can
+            purchase groceries and recipes.
           </p>
           <br />
 
@@ -82,12 +82,12 @@ const Projects = () => {
                   src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
                 />
                 <a href="https://github.com/1911-GH-mushrooms/GraceShopper">
-                  Project Repo
+                  PROJECT REPO
                 </a>
-                <img
+                {/* <img
                   className="project_repo"
                   src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-                />
+                /> */}
               </div>
               <div className="deployedproj">
                 <img
@@ -95,12 +95,12 @@ const Projects = () => {
                   src="https://avatars3.githubusercontent.com/u/59840616?s=200&v=4"
                 />
                 <a href="https://graceshopper2020mushroom.herokuapp.com/home">
-                  Check out Grace Shopper
+                  DEMO
                 </a>
-                <img
+                {/* <img
                   className="project_img"
                   src="https://avatars3.githubusercontent.com/u/59840616?s=200&v=4"
-                />
+                /> */}
               </div>
             </div>
 
@@ -124,8 +124,8 @@ const Projects = () => {
         </div>
 
         <div className="project">
-          <h1 className="project_name">Study Buddy</h1>
-          <h3 className="fullstackdev">Fullstack Developer, 2020</h3>
+          <h2 className="project_name">Study Buddy</h2>
+          <h4 className="fullstackdev">Fullstack Developer, 2020</h4>
           <br />
           <p className="project_description">
             Study Buddy is an IOS meetup app for study groups that allows you to
@@ -141,12 +141,12 @@ const Projects = () => {
                   src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
                 />
                 <a href="https://github.com/Stackathon-Studdy-Buddy/Study-Buddy">
-                  Project Repo
+                  PROJECT REPO
                 </a>
-                <img
+                {/* <img
                   className="project_repo"
                   src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-                />
+                /> */}
               </div>
               <div className="deployedproj">
                 <img
