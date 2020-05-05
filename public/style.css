@@ -67,7 +67,8 @@ body > div {
   flex-direction: column;
   align-items: center;
   padding: 10px;
-  width: 75%; /*MAKE WIDTH 600PX */
+  /* width: 75%; MAKE WIDTH 600PX */
+  width: 60%;
   margin: 10px;
   flex-wrap: wrap;
   border-style: solid;

@@ -259,8 +259,6 @@ var Experience = function Experience() {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-router-dom */ "./node_modules/react-router-dom/esm/react-router-dom.js");
-
 
 
 var Projects = function Projects() {
@@ -363,7 +361,7 @@ var Projects = function Projects() {
     src: "https://avatars1.githubusercontent.com/u/60267185?s=400&u=6bdcd2359d29593392d41f452213606b43cd3f92&v=4"
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "pinfo"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Study Buddy was built using:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Firebase Services"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Express.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React-Native"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React-Redux.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Node.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Apple Maps API")))))));
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Study Buddy was built using:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Firebase Services"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Express.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React-Native"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React-Redux.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Node.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Apple Maps API")))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Projects);
@@ -34989,7 +34987,7 @@ if (false) {} else {
 /*!***************************************************************!*\
   !*** ./node_modules/react-router-dom/esm/react-router-dom.js ***!
   \***************************************************************/
-/*! exports provided: MemoryRouter, Prompt, Redirect, Route, Router, StaticRouter, Switch, generatePath, matchPath, withRouter, __RouterContext, BrowserRouter, HashRouter, Link, NavLink */
+/*! exports provided: BrowserRouter, HashRouter, Link, NavLink, MemoryRouter, Prompt, Redirect, Route, Router, StaticRouter, Switch, generatePath, matchPath, withRouter, __RouterContext */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
