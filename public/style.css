@@ -13,6 +13,7 @@ body > div {
 #site_title {
   display: flex;
   justify-content: center;
+  font-size: 45px;
   padding: 20px 0px 10px 0px;
 }
 
