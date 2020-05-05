@@ -67,10 +67,12 @@ body > div {
   flex-direction: column;
   align-items: center;
   padding: 10px;
-  width: 75%;
-  border-style: solid;
+  width: 75%; /*MAKE WIDTH 600PX */
   margin: 10px;
   flex-wrap: wrap;
+  border-style: solid;
+  border-width: thin;
+  box-shadow: 5px 10px #888888;
 }
 
 .eduex_img {
@@ -117,6 +119,8 @@ body > div {
   align-items: center;
   width: 300px;
   justify-self: center;
+  border-width: thin;
+  box-shadow: 5px 10px #888888;
 }
 
 .project_img {
