@@ -132,7 +132,7 @@ var Contact = function Contact() {
     id: "allprojects"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     id: "contact_me"
-  }, "Contact Me"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "Contact Me"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "contact_wrapper"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "contact"
@@ -197,7 +197,7 @@ var Experience = function Experience() {
     className: "experience"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "exname"
-  }, "Fullstack Academy"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "Fullstack Academy"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "extitle"
   }, "Software Engineering Teaching Fellow (2020-Current)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "eduex_img",
@@ -208,7 +208,7 @@ var Experience = function Experience() {
     className: "experience"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "exname"
-  }, "Grace Hopper Program at Fullstack Academy"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "Grace Hopper Program at Fullstack Academy"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "extitle"
   }, "Software Engineering Student (2019-2020)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "eduex_img",
@@ -219,7 +219,7 @@ var Experience = function Experience() {
     className: "experience"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "exname"
-  }, "Duke University"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "Duke University"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "extitle"
   }, "Bachelors Degree Computer Science & Sociology Minor (2015-2019)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "eduex_img",
@@ -234,7 +234,7 @@ var Experience = function Experience() {
     className: "experience"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "exname"
-  }, "Social Science Research Institute"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "Social Science Research Institute"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "extitle"
   }, "Lab Assistant, Research on the Education and Development of Youth (REDY) Lab (2018)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "eduex_img",
@@ -873,11 +873,9 @@ __webpack_require__.r(__webpack_exports__);
 
 
 var Contact = function Contact() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    id: "allprojects"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     id: "contact_me"
-  }, "Contact Me"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "Contact Me"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "contact_wrapper"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "contact"

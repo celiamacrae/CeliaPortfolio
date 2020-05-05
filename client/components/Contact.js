@@ -2,9 +2,11 @@ import React, {Component} from 'react'
 
 const Contact = () => {
   return (
-    <div id="allprojects">
+    <div>
       <br />
       <h1 id="contact_me">Contact Me</h1>
+      <br />
+
       <div className="contact_wrapper">
         <div className="contact">
           <a href="https://github.com/celiamacrae">
