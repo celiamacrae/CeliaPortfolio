@@ -3,7 +3,7 @@ import {exlogos} from '../logos'
 
 const Experience = () => {
   return (
-    <div id="experiences">
+    <div id="experiences" className="content">
       <br />
 
       <div className="experience">

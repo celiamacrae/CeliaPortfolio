@@ -2,7 +2,7 @@ import React, {Component} from 'react'
 
 const About = () => {
   return (
-    <div id="about_wrapper">
+    <div id="about_wrapper" className="content">
       <br />
       <h1>Hello, World.</h1>
       <img id="self" src="https://i.imgur.com/Zaxi80t.jpg" />

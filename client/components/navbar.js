@@ -23,7 +23,7 @@ const Navbar = () => (
         </NavLink>
       </div>
     </nav>
-    <hr />
+    {/* <hr /> */}
   </div>
 )
 

@@ -15,6 +15,7 @@ body > div {
   justify-content: center;
   font-size: 45px;
   padding: 20px 0px 10px 0px;
+  background-color: #ffbdc7;
 }
 
 /*MEDIA */
@@ -32,8 +33,9 @@ body > div {
 #nav {
   display: flex;
   justify-content: center;
-  padding: 10px;
+  padding: 7px;
   flex-wrap: wrap;
+  background-color: #ffe9ec;
 }
 
 .nav_item {
@@ -50,7 +52,6 @@ body > div {
   align-items: center;
   padding: 10px;
   text-align: center;
-  justify-content: center;
 }
 
 #aboutme {
@@ -252,3 +253,47 @@ a {
   margin: 10px;
   color: black;
 }
+
+/* FOOTER */
+#footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: #ffe9ec;
+  position: sticky;
+
+  /* flex-shrink: 0; */
+  left: 0;
+  bottom: 0;
+
+  margin-top: 2.5rem;
+  height: 4.5rem;
+}
+
+.footer_contact {
+  margin: 5px;
+}
+
+.content {
+  min-height: 70vh;
+}
+
+/*TESTING SOMETHING HERE /*/
+/* html, body{
+  min-height: 100vh;
+}
+
+
+body{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+}
+
+.content{
+  flex: 1 0 auto;
+} */

@@ -2,7 +2,7 @@ import React, {Component} from 'react'
 
 const Projects = () => {
   return (
-    <div>
+    <div className="content">
       <br />
       <div id="project_wrapper">
         {/* <h1>My Projects</h1> */}

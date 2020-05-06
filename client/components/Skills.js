@@ -23,7 +23,7 @@ class Skills extends Component {
 
   render() {
     return (
-      <div id="skills">
+      <div id="skills" className="content">
         <br />
         <h2 className="skill_level">Proficient</h2>
         {/* <br /> */}
