@@ -25,7 +25,7 @@ const Projects = () => {
                   className="project_repo"
                   src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
                 />
-                <a href="https://github.com/celiamacrae/Graphit2.0">Demo</a>
+                <a href="https://github.com/celiamacrae/Graphit2.0">Code</a>
                 {/* <img
                   className="project_repo"
                   src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
@@ -36,7 +36,7 @@ const Projects = () => {
                   className="project_img"
                   src="https://avatars2.githubusercontent.com/u/60450249?s=400&u=b50a16566758429f3ee239735bdadd7ab61b9abc&v=4"
                 />
-                <a href="https://graphit2.herokuapp.com/">Code</a>
+                <a href="https://graphit2.herokuapp.com/">Demo</a>
                 {/* <img
                   className="project_img"
                   src="https://avatars2.githubusercontent.com/u/60450249?s=400&u=b50a16566758429f3ee239735bdadd7ab61b9abc&v=4"
@@ -80,7 +80,7 @@ const Projects = () => {
                   src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
                 />
                 <a href="https://github.com/1911-GH-mushrooms/GraceShopper">
-                  Repo
+                  Code
                 </a>
                 {/* <img
                   className="project_repo"
@@ -139,7 +139,7 @@ const Projects = () => {
                   src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
                 />
                 <a href="https://github.com/Stackathon-Studdy-Buddy/Study-Buddy">
-                  Repo
+                  Code
                 </a>
                 {/* <img
                   className="project_repo"
