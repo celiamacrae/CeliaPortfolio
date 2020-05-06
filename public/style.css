@@ -144,6 +144,7 @@ body > div {
   margin: 10px;
   border-radius: 25%;
   border-style: solid;
+  border-width: thin;
 }
 
 .project_repo {
@@ -152,10 +153,17 @@ body > div {
   margin: 10px;
   border-radius: 25%;
   border-style: solid;
+  border-width: thin;
 }
 
 a {
   color: black;
+}
+
+.pinfo1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 
 .pinfo {

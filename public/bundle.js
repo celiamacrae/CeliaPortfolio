@@ -273,7 +273,7 @@ var Projects = function Projects() {
   }, "GraphIt is a platform that transforms uploaded data from a non-technical user to \u201Cmagically\u201D produce the most appropriate graph in seconds."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "projinfo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "pinfo"
+    className: "pinfo1"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "repo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -281,14 +281,14 @@ var Projects = function Projects() {
     src: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://github.com/celiamacrae/Graphit2.0"
-  }, "Demo")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "Code")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "deployedproj"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "project_img",
     src: "https://avatars2.githubusercontent.com/u/60450249?s=400&u=b50a16566758429f3ee239735bdadd7ab61b9abc&v=4"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://graphit2.herokuapp.com/"
-  }, "Code"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "Demo"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "pinfo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "GraphIt was built using:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "PostgreSQL"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Express.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React-Redux.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Node.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Chart.js ")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project"
@@ -301,7 +301,7 @@ var Projects = function Projects() {
   }, "Mushroom Marketplace is eCommerce web application where users can purchase groceries and recipes."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "projinfo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "pinfo"
+    className: "pinfo1"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "repo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -309,7 +309,7 @@ var Projects = function Projects() {
     src: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://github.com/1911-GH-mushrooms/GraceShopper"
-  }, "Repo")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "Code")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "deployedproj"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "project_img",
@@ -329,7 +329,7 @@ var Projects = function Projects() {
   }, "Study Buddy is an IOS meetup app for study groups that allows you to create and attend events."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "projinfo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "pinfo"
+    className: "pinfo1"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "repo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -337,12 +337,9 @@ var Projects = function Projects() {
     src: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://github.com/Stackathon-Studdy-Buddy/Study-Buddy"
-  }, "Repo")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "Code")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "deployedproj"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    className: "project_img",
-    src: "https://avatars1.githubusercontent.com/u/60267185?s=400&u=6bdcd2359d29593392d41f452213606b43cd3f92&v=4"
-  }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "pinfo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Study Buddy was built using:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Firebase Services"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Express.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React-Native"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React-Redux.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Node.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Apple Maps API")))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null));
 };
@@ -1001,7 +998,7 @@ var Projects = function Projects() {
   }, "GraphIt is a platform that transforms uploaded data from a non-technical user to \u201Cmagically\u201D produce the most appropriate graph in seconds."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "projinfo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "pinfo"
+    className: "pinfo1"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "repo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -1009,14 +1006,14 @@ var Projects = function Projects() {
     src: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://github.com/celiamacrae/Graphit2.0"
-  }, "Demo")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "Code")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "deployedproj"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "project_img",
     src: "https://avatars2.githubusercontent.com/u/60450249?s=400&u=b50a16566758429f3ee239735bdadd7ab61b9abc&v=4"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://graphit2.herokuapp.com/"
-  }, "Code"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "Demo"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "pinfo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "GraphIt was built using:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "PostgreSQL"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Express.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React-Redux.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Node.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Chart.js ")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project"
@@ -1029,7 +1026,7 @@ var Projects = function Projects() {
   }, "Mushroom Marketplace is eCommerce web application where users can purchase groceries and recipes."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "projinfo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "pinfo"
+    className: "pinfo1"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "repo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -1037,7 +1034,7 @@ var Projects = function Projects() {
     src: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://github.com/1911-GH-mushrooms/GraceShopper"
-  }, "Repo")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "Code")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "deployedproj"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "project_img",
@@ -1057,7 +1054,7 @@ var Projects = function Projects() {
   }, "Study Buddy is an IOS meetup app for study groups that allows you to create and attend events."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "projinfo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "pinfo"
+    className: "pinfo1"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "repo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -1065,12 +1062,9 @@ var Projects = function Projects() {
     src: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://github.com/Stackathon-Studdy-Buddy/Study-Buddy"
-  }, "Repo")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "Code")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "deployedproj"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    className: "project_img",
-    src: "https://avatars1.githubusercontent.com/u/60267185?s=400&u=6bdcd2359d29593392d41f452213606b43cd3f92&v=4"
-  }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "pinfo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Study Buddy was built using:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Firebase Services"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Express.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React-Native"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React-Redux.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Node.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Apple Maps API")))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null));
 };
