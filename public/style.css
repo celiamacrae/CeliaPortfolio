@@ -84,7 +84,8 @@ body > div {
   flex-wrap: wrap;
   border-style: solid;
   border-width: thin;
-  box-shadow: 5px 10px #888888;
+  /* box-shadow: 5px 10px #888888; */
+  box-shadow: 5px 10px #d8d8d8;
 }
 
 .eduex_img {
@@ -133,7 +134,8 @@ body > div {
   width: 300px;
   justify-self: center;
   border-width: thin;
-  box-shadow: 5px 10px #888888;
+  /* box-shadow: 5px 10px #888888; */
+  box-shadow: 5px 10px #d8d8d8;
 }
 
 .project_img {
