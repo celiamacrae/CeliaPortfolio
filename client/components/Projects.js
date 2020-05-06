@@ -39,7 +39,7 @@ const Projects = () => {
             <br />
 
             <div className="pinfo">
-              <p>Tech Stack:</p>
+              <p>GraphIt Tech Stack:</p>
               <ul>
                 <li>PostgreSQL</li>
                 <li>Express.js</li>
@@ -89,7 +89,7 @@ const Projects = () => {
             <br />
 
             <div className="pinfo">
-              <p>Tech Stack:</p>
+              <p>Mushroom Marketplace Tech Stack:</p>
               <ul>
                 <li>PostgreSQL</li>
                 <li>Express.js</li>
@@ -137,7 +137,7 @@ const Projects = () => {
             <br />
 
             <div className="pinfo">
-              <p>Tech Stack:</p>
+              <p>Study Buddy Tech Stack:</p>
               <ul>
                 <li>Firebase Services</li>
                 <li>Express.js</li>
