@@ -20,16 +20,6 @@ body > div {
   background-color: #ffbdc7;
 }
 
-/*MEDIA */
-@media screen and (max-width: 600px) {
-  .experience {
-    width: 85%;
-  }
-  #aboutme {
-    width: 90%;
-  }
-}
-
 /*NAVIGATION*/
 
 #nav {
@@ -283,20 +273,18 @@ a {
   min-height: calc(100vh - 195px);
 }
 
-/*TESTING SOMETHING HERE /*/
-/* html, body{
-  min-height: 100vh;
+/*MEDIA */
+@media screen and (max-width: 605px) {
+  .experience {
+    width: 80%;
+  }
+  #aboutme {
+    width: 90%;
+  }
+  #nav {
+    height: 90px;
+  }
+  .content {
+    min-height: calc(100vh - 240px);
+  }
 }
-
-
-body{
-  display: flex;
-  flex-direction: column;
-  position: relative;
-  margin: 0;
-  padding-bottom: 6rem;
-}
-
-.content{
-  flex: 1 0 auto;
-} */
