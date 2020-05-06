@@ -39,7 +39,7 @@ const Projects = () => {
             <br />
 
             <div className="pinfo">
-              <p>GraphIt was built using:</p>
+              <p>Tech Stack:</p>
               <ul>
                 <li>PostgreSQL</li>
                 <li>Express.js</li>
@@ -89,7 +89,7 @@ const Projects = () => {
             <br />
 
             <div className="pinfo">
-              <p>Grace Shopper was built using:</p>
+              <p>Tech Stack:</p>
               <ul>
                 <li>PostgreSQL</li>
                 <li>Express.js</li>
@@ -137,11 +137,11 @@ const Projects = () => {
             <br />
 
             <div className="pinfo">
-              <p>Study Buddy was built using:</p>
+              <p>Tech Stack:</p>
               <ul>
                 <li>Firebase Services</li>
                 <li>Express.js</li>
-                <li>React-Native</li>
+                <li>React-Native.js</li>
                 <li>React-Redux.js</li>
                 <li>Node.js</li>
                 <li>Apple Maps API</li>
