@@ -256,6 +256,7 @@ a {
   width: 100%;
   background-color: #ffe9ec;
   position: sticky;
+  padding: 5px;
 
   /* flex-shrink: 0; */
   left: 0;
@@ -270,7 +271,7 @@ a {
 }
 
 .content {
-  min-height: calc(100vh - 195px);
+  min-height: calc(100vh - 205px);
 }
 
 /*MEDIA */
@@ -285,6 +286,6 @@ a {
     height: 90px;
   }
   .content {
-    min-height: calc(100vh - 240px);
+    min-height: calc(100vh - 250px);
   }
 }
