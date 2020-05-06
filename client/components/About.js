@@ -7,7 +7,7 @@ const About = () => {
       <h1>Hello, World.</h1>
       <img id="self" src="https://i.imgur.com/Zaxi80t.jpg" />
 
-      <h3 id="aboutme">
+      <h4 id="aboutme">
         My name is Celia Macrae. I am a full-stack web developer based in New
         York, NY. I recently graduated from Duke University (2019) with a
         Bachelor's Degree in Computer Science and a minor in Sociology,
@@ -17,7 +17,7 @@ const About = () => {
         teams. I am currently working as a Software Engineering Teaching Fellow
         at Fullstack Academy and seeking fulltime employment as a Software
         Engineer.
-      </h3>
+      </h4>
     </div>
   )
 }

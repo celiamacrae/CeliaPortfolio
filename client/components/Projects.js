@@ -25,9 +25,7 @@ const Projects = () => {
                   className="project_repo"
                   src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
                 />
-                <a href="https://github.com/celiamacrae/Graphit2.0">
-                  PROJECT REPO
-                </a>
+                <a href="https://github.com/celiamacrae/Graphit2.0">Demo</a>
                 {/* <img
                   className="project_repo"
                   src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
@@ -38,7 +36,7 @@ const Projects = () => {
                   className="project_img"
                   src="https://avatars2.githubusercontent.com/u/60450249?s=400&u=b50a16566758429f3ee239735bdadd7ab61b9abc&v=4"
                 />
-                <a href="https://graphit2.herokuapp.com/">DEMO</a>
+                <a href="https://graphit2.herokuapp.com/">Code</a>
                 {/* <img
                   className="project_img"
                   src="https://avatars2.githubusercontent.com/u/60450249?s=400&u=b50a16566758429f3ee239735bdadd7ab61b9abc&v=4"
@@ -82,7 +80,7 @@ const Projects = () => {
                   src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
                 />
                 <a href="https://github.com/1911-GH-mushrooms/GraceShopper">
-                  PROJECT REPO
+                  Repo
                 </a>
                 {/* <img
                   className="project_repo"
@@ -95,7 +93,7 @@ const Projects = () => {
                   src="https://avatars3.githubusercontent.com/u/59840616?s=200&v=4"
                 />
                 <a href="https://graceshopper2020mushroom.herokuapp.com/home">
-                  DEMO
+                  Demo
                 </a>
                 {/* <img
                   className="project_img"
@@ -141,7 +139,7 @@ const Projects = () => {
                   src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
                 />
                 <a href="https://github.com/Stackathon-Studdy-Buddy/Study-Buddy">
-                  PROJECT REPO
+                  Repo
                 </a>
                 {/* <img
                   className="project_repo"
