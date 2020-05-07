@@ -72,13 +72,12 @@ body > div {
   flex-direction: column;
   align-items: center;
   padding: 10px;
-  /* width: 75%; MAKE WIDTH 600PX */
   width: 60%;
   margin: 10px;
   flex-wrap: wrap;
   border-style: solid;
   border-width: thin;
-  /* box-shadow: 5px 10px #888888; */
+  border-color: #a9a9a9;
   box-shadow: 5px 10px #d8d8d8;
 }
 
@@ -128,7 +127,7 @@ body > div {
   width: 300px;
   justify-self: center;
   border-width: thin;
-  /* box-shadow: 5px 10px #888888; */
+  border-color: #a9a9a9;
   box-shadow: 5px 10px #d8d8d8;
 }
 
@@ -267,7 +266,7 @@ a {
 }
 
 .footer_contact {
-  margin: 5px;
+  margin: 5px 10px;
 }
 
 .content {

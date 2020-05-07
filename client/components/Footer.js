@@ -20,6 +20,8 @@ const Footer = () => {
               className="contact_img"
               src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png"
             />
+            {/* <img className='contact_img'
+            src='https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/linkedin-2-icon-18-256.png' /> */}
           </a>
 
           <a href="mailto:celiamacrae@gmail.com" className="footer_contact">
