@@ -14,20 +14,20 @@ const Experience = () => {
         <img className="eduex_img" src={exlogos.fullstack} />
         <ul className="responsibilities">
           <li>
-            Resolve help tickets for 31 students learning full stack JavaScript
-            using NERD stack
+            Resolve help tickets for 31 students learning full-stack JavaScript
+            concepts using PERN stack
           </li>
           <li>
-            Support technical and professional growth of 7-student learning team
-            thorough office hours and learning team lunches
+            Provide technical support to 7 student mentees through office hours
+            and learning team lunches
           </li>
           <li>
             Administer 3-4 behavioral and technical interviews per week to
-            prospective students
+            perspective students
           </li>
           <li>
             Manage student projects from ideation to deployment through agile
-            workflow
+            workflow and code reviews
           </li>
         </ul>
       </div>
@@ -95,7 +95,7 @@ const Experience = () => {
             Tomorrow (NBT)
           </li>
           <li>
-            Assisted in planning and hosting Bold Ideas in Education: School
+            Assisted planning and hosting the Bold Ideas in Education: School
             Readiness Summit
           </li>
           <li>
