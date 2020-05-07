@@ -61,6 +61,10 @@ body > div {
 
 /*EDUCATION AND EXPERIENCE */
 
+.bebold {
+  font-weight: 900;
+}
+
 #experiences {
   display: flex;
   flex-direction: column;

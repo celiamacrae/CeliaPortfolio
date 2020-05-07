@@ -36,12 +36,17 @@ const Experience = () => {
         <h2 className="exname">Grace Hopper Program at Fullstack Academy</h2>
         <h4 className="extitle">Software Engineering Student (2019-2020)</h4>
         <img className="eduex_img" src={exlogos.gracehopper} />
-        <h5 id="ghdesc">
-          A 17-week immersive software engineering program based in New York
-          City centered on full-stack JavaScript development, including Node.js,
-          Express, Sequelize ORM for PostgreSQL databases, React and Redux;
-          along with HTML & CSS, and CS fundamentals.
-        </h5>
+        <ul className="responsibilities">
+          <li>
+            17-week immersive software engineering program based in New York
+            City
+          </li>
+          <li>
+            Centered on full-stack JavaScript development, including Node.js,
+            Express, Sequelize ORM for PostgreSQL databases, React and Redux;
+            along with HTML & CSS, and CS fundamentals
+          </li>
+        </ul>
       </div>
 
       <div className="experience">
@@ -50,35 +55,28 @@ const Experience = () => {
           Bachelors Degree Computer Science & Sociology Minor (2015-2019)
         </h4>
         <img className="eduex_img" src={exlogos.duke} />
-        <div id="courses">
-          <h5>Relevant Cousework: </h5>
-          <h5>
+        <ul className="responsibilities">
+          <li>
+            <p className="bebold">Relevant Cousework:</p>
             Introduction to Computer Science - Data Structures and Algorithms -
             Discrete Math for Computer Science - Computer Architecture -
             Introduction to Operating Systems - Introduction to the Design &
             Analysis of Algorithms - Everything Data - Technical and Social
             Analysis of Information and the Internet - Laboratory Calculus II -
             Probability
-          </h5>
-        </div>
-        <br />
-        <div id="courses">
-          <h5>Member of:</h5>
-          <h5>
+          </li>
+          <li>
+            <p className="bebold">Extracurriculars:</p>
             Duke Varsity Women's Rowing - Duke Student Government Research Unit
-            (DSGRU) - Duke Peer Advocates for Sexual Health (PASH){' '}
-          </h5>
-        </div>
-        <br />
-        <div id="courses">
-          <h5>Volunteer:</h5>
-          <h5>
+            (DSGRU) - Duke Peer Advocates for Sexual Health (PASH)
+          </li>
+          <li>
+            <p className="bebold">Volunteer:</p>
             Hillcrest Convalescent Center - Zero Waste Game Day -
             Rubenstein-Bing Student-Athlete Civic Engagement (ACE) Program -
             George Watts Elementary School
-          </h5>
-        </div>
-        {/* <img className='eduex_img' src='https://media.glassdoor.com/sqll/2775/duke-university-squarelogo.png' /> */}
+          </li>
+        </ul>
       </div>
 
       <div className="experience">

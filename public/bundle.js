@@ -215,9 +215,9 @@ var Experience = function Experience() {
   }, "Software Engineering Student (2019-2020)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "eduex_img",
     src: _logos__WEBPACK_IMPORTED_MODULE_1__["exlogos"].gracehopper
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", {
-    id: "ghdesc"
-  }, "A 17-week immersive software engineering program based in New York City centered on full-stack JavaScript development, including Node.js, Express, Sequelize ORM for PostgreSQL databases, React and Redux; along with HTML & CSS, and CS fundamentals.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+    className: "responsibilities"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "17-week immersive software engineering program based in New York City"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Centered on full-stack JavaScript development, including Node.js, Express, Sequelize ORM for PostgreSQL databases, React and Redux; along with HTML & CSS, and CS fundamentals"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "experience"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "exname"
@@ -226,13 +226,15 @@ var Experience = function Experience() {
   }, "Bachelors Degree Computer Science & Sociology Minor (2015-2019)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "eduex_img",
     src: _logos__WEBPACK_IMPORTED_MODULE_1__["exlogos"].duke
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    id: "courses"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", null, "Relevant Cousework: "), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", null, "Introduction to Computer Science - Data Structures and Algorithms - Discrete Math for Computer Science - Computer Architecture - Introduction to Operating Systems - Introduction to the Design & Analysis of Algorithms - Everything Data - Technical and Social Analysis of Information and the Internet - Laboratory Calculus II - Probability")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    id: "courses"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", null, "Member of:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", null, "Duke Varsity Women's Rowing - Duke Student Government Research Unit (DSGRU) - Duke Peer Advocates for Sexual Health (PASH)", ' ')), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    id: "courses"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", null, "Volunteer:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", null, "Hillcrest Convalescent Center - Zero Waste Game Day - Rubenstein-Bing Student-Athlete Civic Engagement (ACE) Program - George Watts Elementary School"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+    className: "responsibilities"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "bebold"
+  }, "Relevant Cousework:"), "Introduction to Computer Science - Data Structures and Algorithms - Discrete Math for Computer Science - Computer Architecture - Introduction to Operating Systems - Introduction to the Design & Analysis of Algorithms - Everything Data - Technical and Social Analysis of Information and the Internet - Laboratory Calculus II - Probability"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "bebold"
+  }, "Extracurriculars:"), "Duke Varsity Women's Rowing - Duke Student Government Research Unit (DSGRU) - Duke Peer Advocates for Sexual Health (PASH)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "bebold"
+  }, "Volunteer:"), "Hillcrest Convalescent Center - Zero Waste Game Day - Rubenstein-Bing Student-Athlete Civic Engagement (ACE) Program - George Watts Elementary School"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "experience"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "exname"
@@ -992,9 +994,9 @@ var Experience = function Experience() {
   }, "Software Engineering Student (2019-2020)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "eduex_img",
     src: _logos__WEBPACK_IMPORTED_MODULE_1__["exlogos"].gracehopper
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", {
-    id: "ghdesc"
-  }, "A 17-week immersive software engineering program based in New York City centered on full-stack JavaScript development, including Node.js, Express, Sequelize ORM for PostgreSQL databases, React and Redux; along with HTML & CSS, and CS fundamentals.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+    className: "responsibilities"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "17-week immersive software engineering program based in New York City"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Centered on full-stack JavaScript development, including Node.js, Express, Sequelize ORM for PostgreSQL databases, React and Redux; along with HTML & CSS, and CS fundamentals"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "experience"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "exname"
@@ -1003,13 +1005,15 @@ var Experience = function Experience() {
   }, "Bachelors Degree Computer Science & Sociology Minor (2015-2019)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "eduex_img",
     src: _logos__WEBPACK_IMPORTED_MODULE_1__["exlogos"].duke
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    id: "courses"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", null, "Relevant Cousework: "), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", null, "Introduction to Computer Science - Data Structures and Algorithms - Discrete Math for Computer Science - Computer Architecture - Introduction to Operating Systems - Introduction to the Design & Analysis of Algorithms - Everything Data - Technical and Social Analysis of Information and the Internet - Laboratory Calculus II - Probability")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    id: "courses"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", null, "Member of:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", null, "Duke Varsity Women's Rowing - Duke Student Government Research Unit (DSGRU) - Duke Peer Advocates for Sexual Health (PASH)", ' ')), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    id: "courses"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", null, "Volunteer:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", null, "Hillcrest Convalescent Center - Zero Waste Game Day - Rubenstein-Bing Student-Athlete Civic Engagement (ACE) Program - George Watts Elementary School"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+    className: "responsibilities"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "bebold"
+  }, "Relevant Cousework:"), "Introduction to Computer Science - Data Structures and Algorithms - Discrete Math for Computer Science - Computer Architecture - Introduction to Operating Systems - Introduction to the Design & Analysis of Algorithms - Everything Data - Technical and Social Analysis of Information and the Internet - Laboratory Calculus II - Probability"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "bebold"
+  }, "Extracurriculars:"), "Duke Varsity Women's Rowing - Duke Student Government Research Unit (DSGRU) - Duke Peer Advocates for Sexual Health (PASH)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "bebold"
+  }, "Volunteer:"), "Hillcrest Convalescent Center - Zero Waste Game Day - Rubenstein-Bing Student-Athlete Civic Engagement (ACE) Program - George Watts Elementary School"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "experience"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "exname"
