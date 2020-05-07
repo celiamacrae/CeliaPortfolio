@@ -76,7 +76,7 @@ body > div {
   flex-direction: column;
   align-items: center;
   padding: 10px;
-  width: 50%;
+  width: 650px;
   margin: 10px;
   flex-wrap: wrap;
   border-style: solid;
@@ -276,6 +276,12 @@ a {
 
 .content {
   min-height: calc(100vh - 205px);
+}
+
+@media screen and (max-width: 690px) {
+  .experience {
+    width: 80%;
+  }
 }
 
 /*MEDIA */
