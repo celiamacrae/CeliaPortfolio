@@ -342,6 +342,7 @@ class Skills extends Component {
             {this.state.mips ? <p className="skill_name">MIPS</p> : <br />}
           </div>
         </div>
+        <br />
       </div>
     )
   }

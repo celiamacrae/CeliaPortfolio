@@ -18,6 +18,7 @@ const About = () => {
         at Fullstack Academy and seeking fulltime employment as a Software
         Engineer.
       </h4>
+      <br />
     </div>
   )
 }

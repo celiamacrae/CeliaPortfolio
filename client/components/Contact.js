@@ -51,6 +51,7 @@ const Contact = () => {
           </a>
         </div>
       </div>
+      <br />
     </div>
   )
 }
