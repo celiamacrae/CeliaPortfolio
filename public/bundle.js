@@ -108,7 +108,7 @@ var About = function About() {
     src: "https://i.imgur.com/Zaxi80t.jpg"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     id: "aboutme"
-  }, "My name is Celia Macrae. I am a full-stack web developer based in New York, NY. I recently graduated from Duke University (2019) with a Bachelor's Degree in Computer Science and a minor in Sociology, particularly focused on Educational Sociology. After graduating, I completed the Grace Hopper Program at Fullstack Academy to sharpen my technical skills (NERD Stack) and gain experience working on agile teams. I am currently working as a Software Engineering Teaching Fellow at Fullstack Academy and seeking fulltime employment as a Software Engineer."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null));
+  }, "My name is Celia Macrae. I am a full-stack web developer based in New York, NY. I recently graduated from Duke University (2019) with a Bachelor's Degree in Computer Science and a minor in Sociology (particularly focused on Educational Sociology). After graduating, I completed the Grace Hopper Program at Fullstack Academy to sharpen my technical skills (NERD Stack) and gain experience working on agile teams. I am currently working as a Software Engineering Teaching Fellow at Fullstack Academy and seeking full-time employment as a Software Engineer."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (About);
@@ -887,7 +887,7 @@ var About = function About() {
     src: "https://i.imgur.com/Zaxi80t.jpg"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     id: "aboutme"
-  }, "My name is Celia Macrae. I am a full-stack web developer based in New York, NY. I recently graduated from Duke University (2019) with a Bachelor's Degree in Computer Science and a minor in Sociology, particularly focused on Educational Sociology. After graduating, I completed the Grace Hopper Program at Fullstack Academy to sharpen my technical skills (NERD Stack) and gain experience working on agile teams. I am currently working as a Software Engineering Teaching Fellow at Fullstack Academy and seeking fulltime employment as a Software Engineer."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null));
+  }, "My name is Celia Macrae. I am a full-stack web developer based in New York, NY. I recently graduated from Duke University (2019) with a Bachelor's Degree in Computer Science and a minor in Sociology, particularly focused on Educational Sociology. After graduating, I completed the Grace Hopper Program at Fullstack Academy to sharpen my technical skills (NERD Stack) and gain experience working on agile teams. I am currently working as a Software Engineering Teaching Fellow at Fullstack Academy and seeking full-time employment as a Software Engineer."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (About);
@@ -35055,7 +35055,7 @@ if (false) {} else {
 /*!***************************************************************!*\
   !*** ./node_modules/react-router-dom/esm/react-router-dom.js ***!
   \***************************************************************/
-/*! exports provided: BrowserRouter, HashRouter, Link, NavLink, MemoryRouter, Prompt, Redirect, Route, Router, StaticRouter, Switch, generatePath, matchPath, withRouter, __RouterContext */
+/*! exports provided: MemoryRouter, Prompt, Redirect, Route, Router, StaticRouter, Switch, generatePath, matchPath, withRouter, __RouterContext, BrowserRouter, HashRouter, Link, NavLink */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
