@@ -10,7 +10,7 @@ const About = () => {
       <h4 id="aboutme">
         My name is Celia Macrae. I am a full-stack web developer based in New
         York, NY. I recently graduated from Duke University (2019) with a
-        Bachelor's Degree in Computer Science and a minor in Sociology,
+        Bachelor's Degree in Computer Science and a minor in Sociology that
         particularly focused on Educational Sociology. After graduating, I
         completed the Grace Hopper Program at Fullstack Academy to sharpen my
         technical skills (NERD Stack) and gain experience working on agile
