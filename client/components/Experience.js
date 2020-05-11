@@ -14,8 +14,8 @@ const Experience = () => {
         <img className="eduex_img" src={exlogos.fullstack} />
         <ul className="responsibilities">
           <li>
-            Resolve help tickets for 31 students learning full-stack JavaScript
-            concepts using NERD stack
+            Assist 31 students learning full-stack JavaScript concepts using
+            NERD stack
           </li>
           <li>
             Provide technical support to 7 student mentees through office hours
