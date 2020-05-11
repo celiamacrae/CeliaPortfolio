@@ -15,7 +15,7 @@ const Experience = () => {
         <ul className="responsibilities">
           <li>
             Resolve help tickets for 31 students learning full-stack JavaScript
-            concepts using PERN stack
+            concepts using NERD stack
           </li>
           <li>
             Provide technical support to 7 student mentees through office hours
