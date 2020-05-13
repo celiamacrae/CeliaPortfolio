@@ -17,11 +17,18 @@ body > div {
   font-size: 45px;
   height: 70px;
   background-color: #ffbdc7;
+
+  /*STICKY HEADER 1/3 */
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 /*TRANSITION ANIMATION */
 .content {
   animation: fadein 2s;
+  /*STICKY HEADER 2/3 */
+  padding-top: 115px;
 }
 
 @keyframes fadein {
@@ -42,6 +49,11 @@ body > div {
   align-items: center;
   flex-wrap: wrap;
   background-color: #ffe9ec;
+
+  /*STICKY HEADER 3/3 */
+  position: fixed;
+  top: 70px;
+  width: 100%;
 }
 
 .nav_item {
