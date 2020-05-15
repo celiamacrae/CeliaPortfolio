@@ -870,7 +870,14 @@ function (_React$Component) {
       var contactHov = this.state.contact_nav ? 'nav_item select_nav' : 'nav_item';
       return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         id: "site_title"
-      }, " ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, "CELIA MACRAE")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+        id: "hamburger"
+      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+        id: "celia"
+      }, "CELIA MACRAE"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+        id: "hamburger",
+        src: "https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/menu-alt-512.png"
+      })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         id: "nav"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["NavLink"], {
         id: "about_nav",
@@ -1724,7 +1731,10 @@ function (_React$Component) {
         id: "site_title"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
         id: "celia"
-      }, "CELIA MACRAE")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      }, "CELIA MACRAE"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+        id: "hamburger",
+        src: "https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/menu-alt-512.png"
+      })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         id: "nav"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["NavLink"], {
         id: "about_nav",

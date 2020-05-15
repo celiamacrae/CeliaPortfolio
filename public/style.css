@@ -16,16 +16,22 @@ body > div {
   display: flex;
   justify-content: center;
   align-items: center;
+  text-align: center;
   font-size: 45px;
   height: 70px;
   background-color: #ffbdc7;
+  /* padding-left: 5px;
+  padding-right: 5px; */
 }
 #celia {
   font-size: 45px;
+  align-self: center;
+  justify-self: center;
+
+  /*FOR HAMBURGER*/
+  padding-left: 45px;
 }
 #hamburger {
-  /* justify-self: flex-end; */
-  /* align-self: flex-end; */
   visibility: hidden;
 }
 
@@ -335,5 +341,19 @@ a {
   }
   .content {
     min-height: calc(100vh - 250px);
+  }
+
+  /*PLAYING W HAMBURGER MENU*/
+  #hamburger {
+    visibility: visible;
+    height: 55px;
+    width: 55px;
+  }
+  #site_title {
+    justify-content: space-between;
+  }
+  #celia {
+    font-size: 35px;
+    padding-left: 0px;
   }
 }

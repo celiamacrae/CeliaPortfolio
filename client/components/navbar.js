@@ -35,9 +35,11 @@ class Navbar extends React.Component {
       <div>
         <div id="site_title">
           <h1 id="celia">CELIA MACRAE</h1>
+          <img
+            id="hamburger"
+            src="https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/menu-alt-512.png"
+          />
         </div>
-
-        {/* <img id= 'hamburger' src='https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/menu-alt-512.png' /> */}
 
         <nav>
           <div id="nav">
