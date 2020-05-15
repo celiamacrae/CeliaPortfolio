@@ -33,7 +33,12 @@ class Navbar extends React.Component {
       : 'nav_item'
     return (
       <div>
-        <h1 id="site_title">CELIA MACRAE</h1>
+        <div id="site_title">
+          <h1 id="celia">CELIA MACRAE</h1>
+        </div>
+
+        {/* <img id= 'hamburger' src='https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/menu-alt-512.png' /> */}
+
         <nav>
           <div id="nav">
             <NavLink
