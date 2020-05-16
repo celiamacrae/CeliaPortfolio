@@ -4,10 +4,13 @@ import {NavLink} from 'react-router-dom'
 class Navbar extends React.Component {
   constructor(props) {
     super(props)
-    this.state = {}
+    this.state = {
+      hidden: true
+    }
 
     this.onHover = this.onHover.bind(this)
     this.offHover = this.offHover.bind(this)
+    this.hide = this.hide.bind(this)
   }
 
   onHover(e) {
@@ -18,6 +21,11 @@ class Navbar extends React.Component {
   offHover(e) {
     this.setState({
       [e.target.id]: false
+    })
+  }
+  hide() {
+    this.setState({
+      hidden: !this.state.hidden
     })
   }
 
@@ -36,61 +44,114 @@ class Navbar extends React.Component {
         <div id="site_title">
           <h1 id="celia">CELIA MACRAE</h1>
           <img
+            onClick={this.hide}
             id="hamburger"
             src="https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/menu-alt-512.png"
           />
         </div>
 
         <nav>
-          <div id="nav">
-            <NavLink
-              id="about_nav"
-              className={aboutHov}
-              onMouseOver={this.onHover}
-              onMouseOut={this.offHover}
-              to="/about"
-            >
-              About Me
-            </NavLink>
-            <NavLink
-              id="eduex_nav"
-              className={eduexHov}
-              onMouseOver={this.onHover}
-              onMouseOut={this.offHover}
-              to="/education_and_experience"
-            >
-              Education and Experience
-            </NavLink>
-            <NavLink
-              id="projects_nav"
-              className={projectsHov}
-              onMouseOver={this.onHover}
-              onMouseOut={this.offHover}
-              to="/projects"
-            >
-              Projects
-            </NavLink>
-            <NavLink
-              id="skills_nav"
-              className={skillsHov}
-              onMouseOver={this.onHover}
-              onMouseOut={this.offHover}
-              to="/skills"
-            >
-              Skills
-            </NavLink>
-            <NavLink
-              id="contact_nav"
-              className={contactHov}
-              onMouseOver={this.onHover}
-              onMouseOut={this.offHover}
-              to="/contact"
-            >
-              Contact
-            </NavLink>
-          </div>
+          {!this.state.hidden ? (
+            <div id="nav_mobile">
+              <NavLink
+                id="about_nav"
+                className={aboutHov}
+                onMouseOver={this.onHover}
+                onMouseOut={this.offHover}
+                to="/about"
+              >
+                About Me
+              </NavLink>
+              <NavLink
+                id="eduex_nav"
+                className={eduexHov}
+                onMouseOver={this.onHover}
+                onMouseOut={this.offHover}
+                to="/education_and_experience"
+              >
+                Education and Experience
+              </NavLink>
+              <NavLink
+                id="projects_nav"
+                className={projectsHov}
+                onMouseOver={this.onHover}
+                onMouseOut={this.offHover}
+                to="/projects"
+              >
+                Projects
+              </NavLink>
+              <NavLink
+                id="skills_nav"
+                className={skillsHov}
+                onMouseOver={this.onHover}
+                onMouseOut={this.offHover}
+                to="/skills"
+              >
+                Skills
+              </NavLink>
+              <NavLink
+                id="contact_nav"
+                className={contactHov}
+                onMouseOver={this.onHover}
+                onMouseOut={this.offHover}
+                to="/contact"
+              >
+                Contact
+              </NavLink>
+            </div>
+          ) : (
+            <div />
+          )}
         </nav>
         {/* <hr /> */}
+
+        <div id="nav">
+          <NavLink
+            id="about_nav"
+            className={aboutHov}
+            onMouseOver={this.onHover}
+            onMouseOut={this.offHover}
+            to="/about"
+          >
+            About Me
+          </NavLink>
+          <NavLink
+            id="eduex_nav"
+            className={eduexHov}
+            onMouseOver={this.onHover}
+            onMouseOut={this.offHover}
+            to="/education_and_experience"
+          >
+            Education and Experience
+          </NavLink>
+          <NavLink
+            id="projects_nav"
+            className={projectsHov}
+            onMouseOver={this.onHover}
+            onMouseOut={this.offHover}
+            to="/projects"
+          >
+            Projects
+          </NavLink>
+          <NavLink
+            id="skills_nav"
+            className={skillsHov}
+            onMouseOver={this.onHover}
+            onMouseOut={this.offHover}
+            to="/skills"
+          >
+            Skills
+          </NavLink>
+          <NavLink
+            id="contact_nav"
+            className={contactHov}
+            onMouseOver={this.onHover}
+            onMouseOut={this.offHover}
+            to="/contact"
+          >
+            Contact
+          </NavLink>
+        </div>
       </div>
     )
   }

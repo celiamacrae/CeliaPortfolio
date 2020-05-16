@@ -844,9 +844,12 @@ function (_React$Component) {
     _classCallCheck(this, Navbar);
 
     _this = _possibleConstructorReturn(this, _getPrototypeOf(Navbar).call(this, props));
-    _this.state = {};
+    _this.state = {
+      hidden: true
+    };
     _this.onHover = _this.onHover.bind(_assertThisInitialized(_this));
     _this.offHover = _this.offHover.bind(_assertThisInitialized(_this));
+    _this.hide = _this.hide.bind(_assertThisInitialized(_this));
     return _this;
   }
 
@@ -861,6 +864,13 @@ function (_React$Component) {
       this.setState(_defineProperty({}, e.target.id, false));
     }
   }, {
+    key: "hide",
+    value: function hide() {
+      this.setState({
+        hidden: !this.state.hidden
+      });
+    }
+  }, {
     key: "render",
     value: function render() {
       var aboutHov = this.state.about_nav ? 'nav_item select_nav' : 'nav_item';
@@ -870,14 +880,13 @@ function (_React$Component) {
       var contactHov = this.state.contact_nav ? 'nav_item select_nav' : 'nav_item';
       return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         id: "site_title"
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        id: "hamburger"
-      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
         id: "celia"
       }, "CELIA MACRAE"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+        onClick: this.hide,
         id: "hamburger",
         src: "https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/menu-alt-512.png"
-      })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", null, !this.state.hidden ? react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         id: "nav"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["NavLink"], {
         id: "about_nav",
@@ -909,7 +918,7 @@ function (_React$Component) {
         onMouseOver: this.onHover,
         onMouseOut: this.offHover,
         to: "/contact"
-      }, "Contact"))));
+      }, "Contact")) : react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null)));
     }
   }]);
 
@@ -1703,9 +1712,12 @@ function (_React$Component) {
     _classCallCheck(this, Navbar);
 
     _this = _possibleConstructorReturn(this, _getPrototypeOf(Navbar).call(this, props));
-    _this.state = {};
+    _this.state = {
+      hidden: true
+    };
     _this.onHover = _this.onHover.bind(_assertThisInitialized(_this));
     _this.offHover = _this.offHover.bind(_assertThisInitialized(_this));
+    _this.hide = _this.hide.bind(_assertThisInitialized(_this));
     return _this;
   }
 
@@ -1720,6 +1732,13 @@ function (_React$Component) {
       this.setState(_defineProperty({}, e.target.id, false));
     }
   }, {
+    key: "hide",
+    value: function hide() {
+      this.setState({
+        hidden: !this.state.hidden
+      });
+    }
+  }, {
     key: "render",
     value: function render() {
       var aboutHov = this.state.about_nav ? 'nav_item select_nav' : 'nav_item';
@@ -1732,9 +1751,42 @@ function (_React$Component) {
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
         id: "celia"
       }, "CELIA MACRAE"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+        onClick: this.hide,
         id: "hamburger",
         src: "https://cdn4.iconfinder.com/data/icons/wirecons-free-vector-icons/32/menu-alt-512.png"
-      })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", null, !this.state.hidden ? react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+        id: "nav_mobile"
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["NavLink"], {
+        id: "about_nav",
+        className: aboutHov,
+        onMouseOver: this.onHover,
+        onMouseOut: this.offHover,
+        to: "/about"
+      }, "About Me"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["NavLink"], {
+        id: "eduex_nav",
+        className: eduexHov,
+        onMouseOver: this.onHover,
+        onMouseOut: this.offHover,
+        to: "/education_and_experience"
+      }, "Education and Experience"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["NavLink"], {
+        id: "projects_nav",
+        className: projectsHov,
+        onMouseOver: this.onHover,
+        onMouseOut: this.offHover,
+        to: "/projects"
+      }, "Projects"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["NavLink"], {
+        id: "skills_nav",
+        className: skillsHov,
+        onMouseOver: this.onHover,
+        onMouseOut: this.offHover,
+        to: "/skills"
+      }, "Skills"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["NavLink"], {
+        id: "contact_nav",
+        className: contactHov,
+        onMouseOver: this.onHover,
+        onMouseOut: this.offHover,
+        to: "/contact"
+      }, "Contact")) : react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         id: "nav"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["NavLink"], {
         id: "about_nav",
@@ -1766,7 +1818,7 @@ function (_React$Component) {
         onMouseOver: this.onHover,
         onMouseOut: this.offHover,
         to: "/contact"
-      }, "Contact"))));
+      }, "Contact")));
     }
   }]);
 
