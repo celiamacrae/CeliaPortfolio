@@ -5,12 +5,15 @@ const Projects = () => {
     <div className="content">
       <br />
       <div id="project_wrapper">
-        {/* <h1>My Projects</h1> */}
-
+        {/* GRAPHIT */}
         <div className="project">
           <h2 className="project_name">GraphIt</h2>
           <h4 className="fullstackdev">Fullstack Developer, 2020</h4>
+
+          <img className="proj_snip" src="https://i.imgur.com/3FaNEkC.jpg" />
+
           <br />
+
           <p className="project_description">
             GraphIt is a platform that transforms uploaded data from a
             non-technical user to “magically” produce the most appropriate graph
@@ -54,9 +57,11 @@ const Projects = () => {
           <br />
         </div>
 
+        {/* MUSHROOM MARKET */}
         <div className="project">
           <h2 className="project_name">Mushroom Marketplace</h2>
           <h4 className="fullstackdev">Fullstack Developer, 2020</h4>
+          <img className="proj_snip" src="https://i.imgur.com/Ck3Gf7G.jpg" />
           <br />
           <p className="project_description">
             Mushroom Marketplace is eCommerce web application where users can
@@ -100,14 +105,14 @@ const Projects = () => {
                 <li>Stripe Payment Platform</li>
               </ul>
             </div>
-
-            {/* <br /> */}
           </div>
         </div>
 
+        {/* STUDY BUDDY */}
         <div className="project">
           <h2 className="project_name">Study Buddy</h2>
           <h4 className="fullstackdev">Fullstack Developer, 2020</h4>
+          <img className="proj_snip" src="https://i.imgur.com/s85t7aD.jpg" />
           <br />
           <p className="project_description">
             Study Buddy is an IOS meetup app for study groups that allows you to

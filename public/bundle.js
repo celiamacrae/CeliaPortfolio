@@ -104,7 +104,7 @@ var About = function About() {
     id: "about_wrapper",
     className: "content"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, "Hello, World."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    id: "self",
+    className: "proj_snip",
     src: "https://i.imgur.com/Zaxi80t.jpg"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     id: "aboutme"
@@ -317,7 +317,10 @@ var Projects = function Projects() {
     className: "project_name"
   }, "GraphIt"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "fullstackdev"
-  }, "Fullstack Developer, 2020"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Fullstack Developer, 2020"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    className: "proj_snip",
+    src: "https://i.imgur.com/3FaNEkC.jpg"
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "project_description"
   }, "GraphIt is a platform that transforms uploaded data from a non-technical user to \u201Cmagically\u201D produce the most appropriate graph in seconds."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "projinfo"
@@ -345,7 +348,10 @@ var Projects = function Projects() {
     className: "project_name"
   }, "Mushroom Marketplace"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "fullstackdev"
-  }, "Fullstack Developer, 2020"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Fullstack Developer, 2020"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    className: "proj_snip",
+    src: "https://i.imgur.com/Ck3Gf7G.jpg"
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "project_description"
   }, "Mushroom Marketplace is eCommerce web application where users can purchase groceries and recipes."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "projinfo"
@@ -373,7 +379,10 @@ var Projects = function Projects() {
     className: "project_name"
   }, "Study Buddy"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "fullstackdev"
-  }, "Fullstack Developer, 2020"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Fullstack Developer, 2020"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    className: "proj_snip",
+    src: "https://i.imgur.com/s85t7aD.jpg"
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "project_description"
   }, "Study Buddy is an IOS meetup app for study groups that allows you to create and attend events."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "projinfo"
@@ -958,7 +967,7 @@ var About = function About() {
     id: "about_wrapper",
     className: "content"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, "Hello, World."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    id: "self",
+    className: "proj_snip",
     src: "https://i.imgur.com/Zaxi80t.jpg"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     id: "aboutme"
@@ -1171,7 +1180,10 @@ var Projects = function Projects() {
     className: "project_name"
   }, "GraphIt"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "fullstackdev"
-  }, "Fullstack Developer, 2020"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Fullstack Developer, 2020"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    className: "proj_snip",
+    src: "https://i.imgur.com/3FaNEkC.jpg"
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "project_description"
   }, "GraphIt is a platform that transforms uploaded data from a non-technical user to \u201Cmagically\u201D produce the most appropriate graph in seconds."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "projinfo"
@@ -1199,7 +1211,10 @@ var Projects = function Projects() {
     className: "project_name"
   }, "Mushroom Marketplace"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "fullstackdev"
-  }, "Fullstack Developer, 2020"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Fullstack Developer, 2020"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    className: "proj_snip",
+    src: "https://i.imgur.com/Ck3Gf7G.jpg"
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "project_description"
   }, "Mushroom Marketplace is eCommerce web application where users can purchase groceries and recipes."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "projinfo"
@@ -1227,7 +1242,10 @@ var Projects = function Projects() {
     className: "project_name"
   }, "Study Buddy"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "fullstackdev"
-  }, "Fullstack Developer, 2020"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Fullstack Developer, 2020"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    className: "proj_snip",
+    src: "https://i.imgur.com/s85t7aD.jpg"
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "project_description"
   }, "Study Buddy is an IOS meetup app for study groups that allows you to create and attend events."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "projinfo"

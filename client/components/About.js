@@ -5,7 +5,7 @@ const About = () => {
     <div id="about_wrapper" className="content">
       <br />
       <h1>Hello, World.</h1>
-      <img id="self" src="https://i.imgur.com/Zaxi80t.jpg" />
+      <img className="proj_snip" src="https://i.imgur.com/Zaxi80t.jpg" />
 
       <h4 id="aboutme">
         My name is Celia Macrae. I am a full-stack web developer based in New
