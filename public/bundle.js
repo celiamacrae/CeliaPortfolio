@@ -342,7 +342,9 @@ var Projects = function Projects() {
     href: "https://graphit2.herokuapp.com/"
   }, "Demo"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "pinfo"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "GraphIt Tech Stack:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "PostgreSQL"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Express.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React-Redux.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Node.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Chart.js ")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "GraphIt Tech Stack:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "stack"
+  }, "PostgreSQL, Express.js, React.js, React-Redux.js, Node.js, Chart.js"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "project_name"
@@ -373,7 +375,9 @@ var Projects = function Projects() {
     href: "https://graceshopper2020mushroom.herokuapp.com/home"
   }, "Demo"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "pinfo"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Mushroom Marketplace Tech Stack:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "PostgreSQL"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Express.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React-Redux.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Node.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Google OAuth"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Stripe Payment Platform"))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Mushroom Marketplace Tech Stack:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "stack"
+  }, "PostgreSQL, Express.js, React.js, React-Redux.js, Node.js, Google OAuth, Stripe Payment Platform")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "project_name"
@@ -399,7 +403,9 @@ var Projects = function Projects() {
     className: "deployedproj"
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "pinfo"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Study Buddy Tech Stack:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Firebase Services"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Express.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React-Native.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React-Redux.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Node.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Apple Maps API")))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null));
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Study Buddy Tech Stack:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "stack"
+  }, "Firebase Services, Express.js, React-Native.js, React-Redux.js, Node.js, Apple Maps API"))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Projects);
@@ -1205,7 +1211,9 @@ var Projects = function Projects() {
     href: "https://graphit2.herokuapp.com/"
   }, "Demo"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "pinfo"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "GraphIt Tech Stack:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "PostgreSQL"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Express.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React-Redux.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Node.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Chart.js ")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "GraphIt Tech Stack:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "stack"
+  }, "PostgreSQL, Express.js, React.js, React-Redux.js, Node.js, Chart.js"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "project_name"
@@ -1236,7 +1244,9 @@ var Projects = function Projects() {
     href: "https://graceshopper2020mushroom.herokuapp.com/home"
   }, "Demo"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "pinfo"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Mushroom Marketplace Tech Stack:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "PostgreSQL"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Express.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React-Redux.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Node.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Google OAuth"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Stripe Payment Platform"))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Mushroom Marketplace Tech Stack:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "stack"
+  }, "PostgreSQL, Express.js, React.js, React-Redux.js, Node.js, Google OAuth, Stripe Payment Platform")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "project_name"
@@ -1262,7 +1272,9 @@ var Projects = function Projects() {
     className: "deployedproj"
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "pinfo"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Study Buddy Tech Stack:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Firebase Services"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Express.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React-Native.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "React-Redux.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Node.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, "Apple Maps API")))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null));
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Study Buddy Tech Stack:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "stack"
+  }, "Firebase Services, Express.js, React-Native.js, React-Redux.js, Node.js, Apple Maps API"))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Projects);
