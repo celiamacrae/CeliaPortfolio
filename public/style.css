@@ -82,6 +82,7 @@ body > div {
   display: flex;
   /* width: 70%; */
   width: 790px;
+  font-weight: normal;
 }
 
 #self {
