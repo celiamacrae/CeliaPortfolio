@@ -228,6 +228,11 @@ a {
   text-align: center;
 }
 
+.tech {
+  font-style: italic;
+  font-weight: bold;
+}
+
 /*SKILLS*/
 
 .skill_level {

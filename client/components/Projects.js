@@ -42,7 +42,7 @@ const Projects = () => {
             <br />
 
             <div className="pinfo">
-              <p>GraphIt Tech Stack:</p>
+              <p className="tech">GraphIt Tech Stack:</p>
               <p className="stack">
                 PostgreSQL, Express.js, React.js, React-Redux.js, Node.js,
                 Chart.js
@@ -90,7 +90,7 @@ const Projects = () => {
             <br />
 
             <div className="pinfo">
-              <p>Mushroom Marketplace Tech Stack:</p>
+              <p className="tech">Mushroom Marketplace Tech Stack:</p>
               <p className="stack">
                 PostgreSQL, Express.js, React.js, React-Redux.js, Node.js,
                 Google OAuth, Stripe Payment Platform
@@ -133,7 +133,7 @@ const Projects = () => {
             <br />
 
             <div className="pinfo">
-              <p>Study Buddy Tech Stack:</p>
+              <p className="tech">Study Buddy Tech Stack:</p>
               <p className="stack">
                 Firebase Services, Express.js, React-Native.js, React-Redux.js,
                 Node.js, Apple Maps API
