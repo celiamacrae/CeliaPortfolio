@@ -145,6 +145,11 @@ body > div {
   align-self: flex-start;
 }
 
+.bullet {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 /*PROJECTS */
 
 #project_wrapper {

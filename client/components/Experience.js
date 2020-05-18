@@ -13,19 +13,19 @@ const Experience = () => {
         </h4>
         <img className="eduex_img" src={exlogos.fullstack} />
         <ul className="responsibilities">
-          <li>
+          <li className="bullet">
             Assist 31 students learning full-stack JavaScript concepts using
             NERD stack
           </li>
-          <li>
+          <li className="bullet">
             Provide technical support to 7 student mentees through office hours
             and learning team lunches
           </li>
-          <li>
+          <li className="bullet">
             Administer 3-4 behavioral and technical interviews per week to
             perspective students
           </li>
-          <li>
+          <li className="bullet">
             Manage student projects from ideation to deployment through agile
             workflow and code reviews
           </li>
@@ -37,11 +37,11 @@ const Experience = () => {
         <h4 className="extitle">Software Engineering Student (2019-2020)</h4>
         <img className="eduex_img" src={exlogos.gracehopper} />
         <ul className="responsibilities">
-          <li>
+          <li className="bullet">
             17-week immersive software engineering program based in New York
             City
           </li>
-          <li>
+          <li className="bullet">
             Centered on full-stack JavaScript development, including Node.js,
             Express, Sequelize ORM for PostgreSQL databases, React and Redux;
             along with HTML & CSS, and CS fundamentals
@@ -56,7 +56,7 @@ const Experience = () => {
         </h4>
         <img className="eduex_img" src={exlogos.duke} />
         <ul className="responsibilities">
-          <li>
+          <li className="bullet">
             <p className="bebold">Relevant Cousework:</p>
             Introduction to Computer Science - Data Structures and Algorithms -
             Discrete Math for Computer Science - Computer Architecture -
@@ -65,12 +65,12 @@ const Experience = () => {
             Analysis of Information and the Internet - Laboratory Calculus II -
             Probability
           </li>
-          <li>
+          <li className="bullet">
             <p className="bebold">Extracurriculars:</p>
             Duke Varsity Women's Rowing - Duke Student Government Research Unit
             (DSGRU) - Duke Peer Advocates for Sexual Health (PASH)
           </li>
-          <li>
+          <li className="bullet">
             <p className="bebold">Volunteer:</p>
             Hillcrest Convalescent Center - Zero Waste Game Day -
             Rubenstein-Bing Student-Athlete Civic Engagement (ACE) Program -
@@ -87,16 +87,16 @@ const Experience = () => {
         </h4>
         <img className="eduex_img" src={exlogos.ssri} />
         <ul className="responsibilities">
-          <li>
+          <li className="bullet">
             Analyzed minority child participation in gifted classes in North
             Carolina public schools for state funded project Nurturing Bright
             Tomorrow (NBT)
           </li>
-          <li>
+          <li className="bullet">
             Assisted planning and hosting the Bold Ideas in Education: School
             Readiness Summit
           </li>
-          <li>
+          <li className="bullet">
             Produced summer readiness packets for students entering
             Kindergarten, 1st, and 2nd grade in Wake County Public Schools
           </li>
