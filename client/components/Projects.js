@@ -55,7 +55,7 @@ const Projects = () => {
 
         {/* MUSHROOM MARKET */}
         <div className="project">
-          <h2 className="project_name">Mushroom Marketplace</h2>
+          <h2 className="project_name">Mushroom Market</h2>
           <h4 className="fullstackdev">Fullstack Developer, 2020</h4>
           <img className="proj_snip" src="https://i.imgur.com/Ck3Gf7G.jpg" />
           <br />
@@ -90,7 +90,7 @@ const Projects = () => {
             <br />
 
             <div className="pinfo">
-              <p className="tech">Mushroom Marketplace Tech Stack:</p>
+              <p className="tech">Mushroom Market Tech Stack:</p>
               <p className="stack">
                 PostgreSQL, Express.js, React.js, React-Redux.js, Node.js,
                 Google OAuth, Stripe Payment Platform
