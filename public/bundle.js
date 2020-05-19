@@ -374,7 +374,7 @@ var Projects = function Projects() {
     className: "project"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "project_name"
-  }, "Mushroom Marketplace"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
+  }, "Mushroom Market"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     className: "fullstackdev"
   }, "Fullstack Developer, 2020"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "proj_snip",
@@ -403,7 +403,7 @@ var Projects = function Projects() {
     className: "pinfo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "tech"
-  }, "Mushroom Marketplace Tech Stack:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Mushroom Market Tech Stack:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "stack"
   }, "PostgreSQL, Express.js, React.js, React-Redux.js, Node.js, Google OAuth, Stripe Payment Platform")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project"
@@ -913,10 +913,8 @@ function (_React$Component) {
       var projectsHov = this.state.projects_nav ? 'nav_item select_nav' : 'nav_item';
       var skillsHov = this.state.skills_nav ? 'nav_item select_nav' : 'nav_item';
       var contactHov = this.state.contact_nav ? 'nav_item select_nav' : 'nav_item';
-      return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
         id: "site_title"
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
-        id: "celia"
       }, "CELIA MACRAE")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         id: "nav"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["NavLink"], {
@@ -1302,7 +1300,7 @@ var Projects = function Projects() {
     className: "pinfo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "tech"
-  }, "Mushroom Marketplace Tech Stack:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Mushroom Market Tech Stack:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "stack"
   }, "PostgreSQL, Express.js, React.js, React-Redux.js, Node.js, Google OAuth, Stripe Payment Platform")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "project"
@@ -35293,7 +35291,7 @@ if (false) {} else {
 /*!***************************************************************!*\
   !*** ./node_modules/react-router-dom/esm/react-router-dom.js ***!
   \***************************************************************/
-/*! exports provided: MemoryRouter, Prompt, Redirect, Route, Router, StaticRouter, Switch, generatePath, matchPath, withRouter, __RouterContext, BrowserRouter, HashRouter, Link, NavLink */
+/*! exports provided: BrowserRouter, HashRouter, Link, NavLink, MemoryRouter, Prompt, Redirect, Route, Router, StaticRouter, Switch, generatePath, matchPath, withRouter, __RouterContext */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
