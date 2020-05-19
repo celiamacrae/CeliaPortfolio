@@ -51,7 +51,7 @@ const Projects = () => {
             <div className="pinfo">
               <p className="tech">GraphIt Tech Stack:</p>
               <p className="stack">
-                PostgreSQL, Express.js, React.js, React-Redux.js, Node.js,
+                Node.js, Express.js, React.js, React-Redux.js, PostgreSQL,
                 Chart.js
               </p>
             </div>
@@ -105,7 +105,7 @@ const Projects = () => {
             <div className="pinfo">
               <p className="tech">Mushroom Market Tech Stack:</p>
               <p className="stack">
-                PostgreSQL, Express.js, React.js, React-Redux.js, Node.js,
+                Node.js, Express.js, React.js, React-Redux.js, PostgreSQL,
                 Google OAuth, Stripe Payment Platform
               </p>
             </div>
@@ -151,8 +151,8 @@ const Projects = () => {
             <div className="pinfo">
               <p className="tech">Study Buddy Tech Stack:</p>
               <p className="stack">
-                Firebase Services, Express.js, React-Native.js, React-Redux.js,
-                Node.js, Apple Maps API
+                Node.js, Express.js, React-Native.js, React-Redux.js, Firebase
+                Services, Apple Maps API
               </p>
             </div>
           </div>
