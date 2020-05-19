@@ -24,10 +24,16 @@ const Projects = () => {
           <div className="projinfo">
             <div className="pinfo1">
               <div className="repo">
-                <img
-                  className="project_repo"
-                  src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-                />
+                <a
+                  href="https://github.com/celiamacrae/Graphit2.0"
+                  target="_blank"
+                >
+                  <img
+                    className="project_repo"
+                    src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+                  />
+                </a>
+
                 <a
                   href="https://github.com/celiamacrae/Graphit2.0"
                   target="_blank"
@@ -36,10 +42,12 @@ const Projects = () => {
                 </a>
               </div>
               <div className="deployedproj">
-                <img
-                  className="project_img"
-                  src="https://avatars2.githubusercontent.com/u/60450249?s=400&u=b50a16566758429f3ee239735bdadd7ab61b9abc&v=4"
-                />
+                <a href="https://graphit2.herokuapp.com/" target="_blank">
+                  <img
+                    className="project_img"
+                    src="https://avatars2.githubusercontent.com/u/60450249?s=400&u=b50a16566758429f3ee239735bdadd7ab61b9abc&v=4"
+                  />
+                </a>
                 <a href="https://graphit2.herokuapp.com/" target="_blank">
                   Demo
                 </a>
@@ -75,10 +83,15 @@ const Projects = () => {
           <div className="projinfo">
             <div className="pinfo1">
               <div className="repo">
-                <img
-                  className="project_repo"
-                  src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-                />
+                <a
+                  href="https://github.com/1911-GH-mushrooms/GraceShopper"
+                  target="_blank"
+                >
+                  <img
+                    className="project_repo"
+                    src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+                  />
+                </a>
                 <a
                   href="https://github.com/1911-GH-mushrooms/GraceShopper"
                   target="_blank"
@@ -87,10 +100,15 @@ const Projects = () => {
                 </a>
               </div>
               <div className="deployedproj">
-                <img
-                  className="project_img"
-                  src="https://avatars3.githubusercontent.com/u/59840616?s=200&v=4"
-                />
+                <a
+                  href="https://graceshopper2020mushroom.herokuapp.com/home"
+                  target="_blank"
+                >
+                  <img
+                    className="project_img"
+                    src="https://avatars3.githubusercontent.com/u/59840616?s=200&v=4"
+                  />
+                </a>
                 <a
                   href="https://graceshopper2020mushroom.herokuapp.com/home"
                   target="_blank"
@@ -127,10 +145,15 @@ const Projects = () => {
           <div className="projinfo">
             <div className="pinfo1">
               <div className="repo">
-                <img
-                  className="project_repo"
-                  src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-                />
+                <a
+                  href="https://github.com/Stackathon-Studdy-Buddy/Study-Buddy"
+                  target="_blank"
+                >
+                  <img
+                    className="project_repo"
+                    src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+                  />
+                </a>
                 <a
                   href="https://github.com/Stackathon-Studdy-Buddy/Study-Buddy"
                   target="_blank"

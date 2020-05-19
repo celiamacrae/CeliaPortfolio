@@ -215,6 +215,7 @@ a {
 .repo {
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 .deployedproj {
