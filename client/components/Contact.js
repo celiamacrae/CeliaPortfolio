@@ -15,7 +15,11 @@ const Contact = () => {
               src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
             />
           </a>
-          <a className="contact_link" href="https://github.com/celiamacrae">
+          <a
+            className="contact_link"
+            href="https://github.com/celiamacrae"
+            target="_blank"
+          >
             https://github.com/celiamacrae
           </a>
         </div>
@@ -32,6 +36,7 @@ const Contact = () => {
           <a
             className="contact_link"
             href="https://www.linkedin.com/in/celia-macrae/"
+            target="_blank"
           >
             https://www.linkedin.com/in/celia-macrae/
           </a>

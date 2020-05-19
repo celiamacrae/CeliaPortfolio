@@ -5,7 +5,11 @@ const Footer = () => {
     <div>
       <footer id="footer">
         <div>
-          <a href="https://github.com/celiamacrae" className="footer_contact">
+          <a
+            href="https://github.com/celiamacrae"
+            target="_blank"
+            className="footer_contact"
+          >
             <img
               className="contact_img"
               src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
@@ -14,6 +18,7 @@ const Footer = () => {
 
           <a
             href="https://www.linkedin.com/in/celia-macrae/"
+            target="_blank"
             className="footer_contact"
           >
             <img
