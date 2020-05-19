@@ -67,7 +67,7 @@ const Projects = () => {
           <img className="proj_snip" src="https://i.imgur.com/Ck3Gf7G.jpg" />
           <br />
           <p className="project_description">
-            Mushroom Marketplace is eCommerce web application where users can
+            Mushroom Market is eCommerce web application where users can
             purchase groceries and recipes.
           </p>
           <br />
