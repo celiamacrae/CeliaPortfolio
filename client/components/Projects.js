@@ -84,7 +84,7 @@ const Projects = () => {
             <div className="pinfo1">
               <div className="repo">
                 <a
-                  href="https://github.com/1911-GH-mushrooms/GraceShopper"
+                  href="https://github.com/celiamacrae/GraceShopper"
                   target="_blank"
                 >
                   <img
@@ -93,7 +93,7 @@ const Projects = () => {
                   />
                 </a>
                 <a
-                  href="https://github.com/1911-GH-mushrooms/GraceShopper"
+                  href="https://github.com/celiamacrae/GraceShopper"
                   target="_blank"
                 >
                   Code
@@ -101,7 +101,7 @@ const Projects = () => {
               </div>
               <div className="deployedproj">
                 <a
-                  href="https://graceshopper2020mushroom.herokuapp.com/home"
+                  href="https://mushroom-market.herokuapp.com/"
                   target="_blank"
                 >
                   <img
@@ -110,7 +110,7 @@ const Projects = () => {
                   />
                 </a>
                 <a
-                  href="https://graceshopper2020mushroom.herokuapp.com/home"
+                  href="https://mushroom-market.herokuapp.com/"
                   target="_blank"
                 >
                   Demo
