@@ -1,7 +1,7 @@
 {
   "name": "CeliaPortfolio",
   "version": "2.0.0",
-  "description": "Celia Macrae Portfolio Site",
+  "description": "Celia Macrae's Software Engineering Portfolio Website",
   "engines": {
     "node": ">= 7.0.0"
   },
