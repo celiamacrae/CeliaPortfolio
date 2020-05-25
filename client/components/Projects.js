@@ -1,8 +1,12 @@
 import React, {Component} from 'react'
+import {Helmet} from 'react-helmet'
 
 const Projects = () => {
   return (
     <div className="content">
+      <Helmet>
+        <title>Celia Macrae | Projects</title>
+      </Helmet>
       <br />
       <div id="project_wrapper">
         {/* GRAPHIT */}

@@ -1,5 +1,6 @@
 import React, {Component} from 'react'
 import {logos} from '../logos'
+import {Helmet} from 'react-helmet'
 
 class Skills extends Component {
   constructor() {
@@ -24,6 +25,9 @@ class Skills extends Component {
   render() {
     return (
       <div id="skills" className="content">
+        <Helmet>
+          <title>Celia Macrae | Skills</title>
+        </Helmet>
         <br />
         <h2 className="skill_level">Proficient</h2>
         {/* <br /> */}

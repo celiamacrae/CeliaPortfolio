@@ -1,9 +1,14 @@
 import React, {Component} from 'react'
 import {exlogos} from '../logos'
+import {Helmet} from 'react-helmet'
 
 const Experience = () => {
   return (
     <div id="experiences" className="content">
+      <Helmet>
+        <title>Celia Macrae | Education and Experience</title>
+      </Helmet>
+
       <br />
 
       <div className="experience">

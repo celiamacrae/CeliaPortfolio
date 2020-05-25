@@ -1,8 +1,12 @@
 import React, {Component} from 'react'
+import {Helmet} from 'react-helmet'
 
 const Contact = () => {
   return (
     <div className="content">
+      <Helmet>
+        <title>Celia Macrae | Contact</title>
+      </Helmet>
       <br />
       <h1 id="contact_me">Contact Me</h1>
       <br />
