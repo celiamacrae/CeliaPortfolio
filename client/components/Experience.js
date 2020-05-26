@@ -63,12 +63,9 @@ const Experience = () => {
         <ul className="responsibilities">
           <li className="bullet">
             <p className="bebold">Relevant Cousework:</p>
-            Introduction to Computer Science - Data Structures and Algorithms -
-            Discrete Math for Computer Science - Computer Architecture -
-            Introduction to Operating Systems - Introduction to the Design &
-            Analysis of Algorithms - Everything Data - Technical and Social
-            Analysis of Information and the Internet - Laboratory Calculus II -
-            Probability
+            Data Structures and Algorithms - Discrete Math for Computer Science
+            - Computer Architecture - Introduction to Operating Systems - Design
+            & Analysis of Algorithms
           </li>
           <li className="bullet">
             <p className="bebold">Extracurriculars:</p>
