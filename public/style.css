@@ -345,12 +345,14 @@ a {
   }
   #aboutme {
     width: 90%;
-    font-size: 35px;
   }
   #nav {
     height: 90px;
   }
   .content {
     min-height: calc(100vh - 250px);
+  }
+  #site_title {
+    font-size: 35px;
   }
 }
