@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div id="about_wrapper" className="content">
       <Helmet>
-        <title>Celia Macrae</title>
+        <title>Celia Macrae | About</title>
       </Helmet>
       <br />
       <h1>Hello, World.</h1>
