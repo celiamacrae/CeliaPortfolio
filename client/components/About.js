@@ -17,8 +17,7 @@ const About = () => {
         Bachelor's Degree in Computer Science and a minor in Sociology that
         focused on Educational Sociology. After graduating, I completed the
         Grace Hopper Program at Fullstack Academy to sharpen my technical skills
-        (NERDS Stack) and gain experience working on agile teams. I am currently
-        working as a Software Engineering Teaching Fellow at Fullstack Academy
+        (NERDS Stack) and gain experience working on agile teams. Most recently, I worked as a Software Engineering Teaching Fellow at Fullstack Academy
         and seeking full-time employment as a Software Engineer.
       </h4>
       <br />
