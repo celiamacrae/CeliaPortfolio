@@ -13,24 +13,22 @@ const Experience = () => {
 
       <div className="experience">
         <h2 className="exname">Fullstack Academy</h2>
-        <h4 className="extitle">
-          Software Engineering Teaching Fellow (2020-Current)
-        </h4>
+        <h4 className="extitle">Software Engineering Teaching Fellow (2020)</h4>
         <img className="eduex_img" src={exlogos.fullstack} />
         <ul className="responsibilities">
           <li className="bullet">
-            Review fundamental algorithms with 31 junior engineering students
+            Reviewed fundamental algorithms with 31 junior engineering students
           </li>
           <li className="bullet">
-            Provide technical support to 7 student mentees through office hours
+            Provided technical support to 7 student mentees through office hours
             and learning team lunches
           </li>
           <li className="bullet">
-            Oversee student projects from ideation to deployment through agile
+            Oversaw student projects from ideation to deployment through agile
             workflow and code reviews
           </li>
           <li className="bullet">
-            Administer 3-4 behavioral and technical interviews per week to
+            Administered 3-4 behavioral and technical interviews per week to
             prospective students
           </li>
         </ul>
