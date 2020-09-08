@@ -19,7 +19,7 @@ const About = () => {
         Grace Hopper Program at Fullstack Academy to sharpen my technical skills
         (NERDS Stack) and gain experience working on agile teams. Most recently,
         I worked as a Software Engineering Teaching Fellow at Fullstack Academy.
-        I am currently seeking full-time employment as a Software Engineer.
+        I am now seeking full-time employment as a Software Engineer.
       </h4>
       <br />
     </div>
